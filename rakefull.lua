@@ -1230,7 +1230,7 @@ local errors, errormsg = pcall(function()
 		end
 	end)
 	game.StarterGui:SetCore("SendNotification", {
-		Title = "Loaded"; 
+		Title = "Loadedv1.1"; 
 		Text = ": Made by xXmlghackerXx"; 
 		Icon = ""; 
 		Duration = 5; 
